@@ -7,7 +7,7 @@ This repository contains a simple, visually appealing calculator application dev
 - **Responsive Design**: Aesthetic layout styled with CSS for better user experience.
 - **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
 - **Interactive UI**: Real-time screen updates and responsive buttons.
-- **Clear All Feature**: Reset calculations with the "AC" button.
+- **Clear All Feature**: Reset calculations with the "AC" button. 
 
 ## Technologies Used
 
