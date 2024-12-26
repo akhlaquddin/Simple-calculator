@@ -18,11 +18,11 @@ This repository contains a simple, visually appealing calculator application dev
 ## Files in the Repository
 
 1. **index.html**  
-   Contains the structure and elements of the calculator interface, linking CSS and JavaScript files. [Preview](#7)
+   Contains the structure and elements of the calculator interface, linking CSS and JavaScript files. 
 2. **style.css**  
-   Defines the style and visual design of the calculator. Includes grid layout for the keys and styled button states. [Preview](#9)
+   Defines the style and visual design of the calculator. Includes grid layout for the keys and styled button states. 
 3. **script.js**  
-   Implements functionality for user interactions, including numeric input, operations, and equal sign behavior. [Preview](#8)
+   Implements functionality for user interactions, including numeric input, operations, and equal sign behavior. 
 
 ## How to Run
 
